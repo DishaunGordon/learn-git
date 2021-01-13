@@ -13,3 +13,5 @@ List of git and coding defintions:
   Pull Request
   Merge
   Variables
+
+Recieved My first issue
