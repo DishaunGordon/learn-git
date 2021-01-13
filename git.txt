@@ -5,3 +5,6 @@ Learn how to code with Git
 List of git defintions:
   Repository (Repo)
   Commit
+  Branch
+  Pull Request
+  Merge
