@@ -3,5 +3,5 @@ Need to know git
 Learn how to code with Git
 
 List of git defintions:
-  Repo
+  Repository (Repo)
   Commit
