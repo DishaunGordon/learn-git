@@ -12,3 +12,4 @@ List of git and coding defintions:
   Branch
   Pull Request
   Merge
+  Variables
