@@ -9,3 +9,6 @@ List of git and coding defintions:
   Commit
   Version Control
   Developer
+  Branch
+  Pull Request
+  Merge
