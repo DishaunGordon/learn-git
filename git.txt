@@ -1,10 +1,14 @@
-Git is important
-Need to know git
-Learn how to code with Git
+Git and Coding
 
-List of git defintions:
+Git is important and so is coding
+Need to know git
+Learn how to code with git
+
+List of git and coding defintions:
   Repository (Repo)
   Commit
+  Version Control
+  Developer
   Branch
   Pull Request
   Merge
